@@ -5,6 +5,7 @@ An API written for RSPS servers.
 You can run this API by posting the required POST data to the Receiver.
 
 Example of the POST data: 
+
 "USER=Aemare&EMAIL=j.doe@github.com&VALIDATION_PASSWORD=256&REQUEST=CHA4%238ddAadNGE&REQUEST_ID=1"
 
 Explaination of how this is working;
